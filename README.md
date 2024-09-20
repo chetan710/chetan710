@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 # 💫 About Me:
-Hi there 👋, I'm Chetan Shivamurthy!<br>I’m a passionate Full-Stack Developer with experience in building dynamic, responsive, and scalable web applications. With a strong background in both front-end and back-end development, I specialize in creating efficient solutions that enhance user experiences. I also develop Android mobile applications, focusing on creating smooth and reliable user interfaces.
+<br>I’m a passionate Full-Stack Developer with experience in building dynamic, responsive, and scalable web applications. With a strong background in both front-end and back-end development, I specialize in creating efficient solutions that enhance user experiences. I also develop Android mobile applications, focusing on creating smooth and reliable user interfaces.
 
 
 # 💻 Tech Stack:
